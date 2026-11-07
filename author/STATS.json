@@ -1,0 +1,145 @@
+{
+  "chapters": 20,
+  "words": 15595,
+  "complete_parts": [
+    1
+  ],
+  "planned_parts": [
+    2,
+    3,
+    4
+  ],
+  "target_total_words": [
+    250000,
+    350000
+  ],
+  "target_chapter_words": [
+    2500,
+    4500
+  ],
+  "chapter_length_target_met": false,
+  "epub_structural_check": "passed",
+  "mibook_device_import_tested": false,
+  "per_chapter": [
+    {
+      "n": 1,
+      "title": "Последний выезд",
+      "words": 1042,
+      "minutes": 6
+    },
+    {
+      "n": 2,
+      "title": "Красная кнопка",
+      "words": 844,
+      "minutes": 5
+    },
+    {
+      "n": 3,
+      "title": "Два расписания",
+      "words": 897,
+      "minutes": 5
+    },
+    {
+      "n": 4,
+      "title": "Оставить на завтра",
+      "words": 847,
+      "minutes": 5
+    },
+    {
+      "n": 5,
+      "title": "Обратный адрес",
+      "words": 797,
+      "minutes": 5
+    },
+    {
+      "n": 6,
+      "title": "Четыре голоса",
+      "words": 806,
+      "minutes": 5
+    },
+    {
+      "n": 7,
+      "title": "Маленькая комната",
+      "words": 756,
+      "minutes": 4
+    },
+    {
+      "n": 8,
+      "title": "Новый человек",
+      "words": 768,
+      "minutes": 5
+    },
+    {
+      "n": 9,
+      "title": "Ночной звонок",
+      "words": 705,
+      "minutes": 4
+    },
+    {
+      "n": 10,
+      "title": "Чьё имя",
+      "words": 749,
+      "minutes": 4
+    },
+    {
+      "n": 11,
+      "title": "День у воды",
+      "words": 772,
+      "minutes": 5
+    },
+    {
+      "n": 12,
+      "title": "Срок хранения",
+      "words": 636,
+      "minutes": 4
+    },
+    {
+      "n": 13,
+      "title": "До последнего автобуса",
+      "words": 686,
+      "minutes": 4
+    },
+    {
+      "n": 14,
+      "title": "Мелким шрифтом",
+      "words": 668,
+      "minutes": 4
+    },
+    {
+      "n": 15,
+      "title": "Когда гаснет свет",
+      "words": 699,
+      "minutes": 4
+    },
+    {
+      "n": 16,
+      "title": "Один незаписанный час",
+      "words": 687,
+      "minutes": 4
+    },
+    {
+      "n": 17,
+      "title": "До отправки",
+      "words": 722,
+      "minutes": 4
+    },
+    {
+      "n": 18,
+      "title": "Право уйти",
+      "words": 641,
+      "minutes": 4
+    },
+    {
+      "n": 19,
+      "title": "Ошибка на рисунке",
+      "words": 718,
+      "minutes": 4
+    },
+    {
+      "n": 20,
+      "title": "Контрольный экземпляр",
+      "words": 1155,
+      "minutes": 7
+    }
+  ]
+}
