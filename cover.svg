@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 840" width="600" height="840">
+<title>VELT Цена величия — Начало</title>
+<rect width="600" height="840" fill="#282b2a"/>
+<path d="M18 0v840" stroke="#171918" stroke-width="12"/>
+<path d="M52 50h496M52 788h496" stroke="#a7a196" stroke-width="1"/>
+<text x="52" y="96" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#d8d0bf">РОМАН В ЧЕТЫРЁХ ЧАСТЯХ</text>
+<text x="48" y="231" font-family="Arial,sans-serif" font-weight="bold" font-size="128" letter-spacing="1" fill="#f1ecdf">VELT</text>
+<text x="54" y="302" font-family="Georgia,serif" font-size="44" fill="#f1ecdf">Цена величия</text>
+<path d="M85 396h140l75 184 75-184h140L300 714Z" fill="none" stroke="#716a61" stroke-width="1"/>
+<path d="M143 396h82l75 184 75-184h82L300 714Z" fill="#4e3c3f"/>
+<path d="M225 396l75 184 75-184M300 580v134" fill="none" stroke="#c6a8a5" stroke-width="2"/>
+<text x="54" y="756" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#ded7c9">I · НАЧАЛО</text>
+<text x="548" y="756" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#ded7c9">2007—2017</text>
+</svg>
